@@ -114,13 +114,13 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{807, 16}",
-"{640, 5}",
+"{640, 15}",
+"{625, 16}",
 "{300, 16}",
-"{0, -21}",
-"{-409, -16}"
+"{0, -16}",
+"{-350, -16}"
 );
-ascender = 807;
+ascender = 625;
 capHeight = 640;
 customParameters = (
 {
@@ -168,7 +168,7 @@ name = underlineThickness;
 value = 17;
 }
 );
-descender = -409;
+descender = -350;
 guideLines = (
 {
 locked = 1;
@@ -35780,16 +35780,7 @@ width = 154;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "IngridDarling Regular";
-},
-{
-name = postscriptFontName;
-value = "IngridDarling-Regular";
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A" = 1;
 };
