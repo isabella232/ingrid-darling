@@ -265,13 +265,27 @@ note = .notdef;
 },
 {
 glyphname = CR;
+lastChange = "2022-02-04 13:23:02 +0000";
 layers = (
 {
 layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
-width = 159;
+width = 0;
 }
 );
 note = CR;
+unicode = 000D;
+},
+{
+glyphname = .null;
+lastChange = "2022-02-04 13:23:34 +0000";
+layers = (
+{
+layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
+width = 0;
+}
+);
+note = NULL;
+unicode = 0000;
 },
 {
 glyphname = space;
@@ -286,12 +300,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
+lastChange = "2022-02-04 13:24:02 +0000";
 layers = (
 {
 layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
-width = 153;
+width = 159;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
@@ -35747,16 +35763,6 @@ width = 701;
 }
 );
 note = Robbie;
-},
-{
-glyphname = NULL;
-layers = (
-{
-layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
-width = 0;
-}
-);
-note = NULL;
 },
 {
 glyphname = ringacute;
