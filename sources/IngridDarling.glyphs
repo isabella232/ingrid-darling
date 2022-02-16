@@ -1,5 +1,9 @@
 {
-.appVersion = "3112";
+.appVersion = "1352";
+DisplayStrings = (
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @",
+"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space FOLD/space AVANZAR/space ALTAR/space LYON/space ARVO/space RYAN/space MY/space ALVARO/space AMAYA/space \012\012Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTara/space Termo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space \012¿"
+);
 copyright = "Copyright 2014-2021 The Ingrid Darling Project Authors (https://github.com/googlefonts/ingrid-darling)";
 customParameters = (
 {
@@ -152,11 +156,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 860;
+value = 963;
 },
 {
 name = winDescent;
-value = 410;
+value = 570;
 },
 {
 name = strikeoutPosition;
@@ -7471,7 +7475,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2022-02-10 15:48:43 +0000";
+lastChange = "2022-02-16 04:30:51 +0000";
 layers = (
 {
 layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
@@ -23978,7 +23982,7 @@ nodes = (
 width = 474;
 }
 );
-note = ".notdef";
+note = .notdef;
 },
 {
 glyphname = .null;
@@ -24558,7 +24562,7 @@ unicode = 00A1;
 },
 {
 glyphname = question;
-lastChange = "2022-02-08 14:18:07 +0000";
+lastChange = "2022-02-16 04:30:13 +0000";
 layers = (
 {
 layerId = "5ED96FCC-ACEE-47D8-A1F6-56FBB5DDEA2A";
@@ -24566,100 +24570,100 @@ paths = (
 {
 closed = 1;
 nodes = (
-"489 607 OFFCURVE",
-"447 646 OFFCURVE",
-"363 656 CURVE SMOOTH",
-"269 667 LINE",
-"171 649 OFFCURVE",
-"55 578 OFFCURVE",
-"55 472 CURVE SMOOTH",
-"55 418 OFFCURVE",
-"87 395 OFFCURVE",
-"148 395 CURVE SMOOTH",
-"208 395 OFFCURVE",
-"237 436 OFFCURVE",
-"244 489 CURVE SMOOTH",
-"246 507 OFFCURVE",
-"220 482 OFFCURVE",
-"218 465 CURVE SMOOTH",
-"215 428 OFFCURVE",
-"189 422 OFFCURVE",
-"148 422 CURVE SMOOTH",
-"105 422 OFFCURVE",
-"100 447 OFFCURVE",
-"100 485 CURVE SMOOTH",
-"100 578 OFFCURVE",
-"212 623 OFFCURVE",
-"300 638 CURVE",
-"380 640 OFFCURVE",
-"418 596 OFFCURVE",
-"418 512 CURVE SMOOTH",
-"418 451 OFFCURVE",
-"404 419 OFFCURVE",
-"352 411 CURVE SMOOTH",
-"275 399 OFFCURVE",
-"169 332 OFFCURVE",
-"169 248 CURVE SMOOTH",
-"169 216 OFFCURVE",
-"200 182 OFFCURVE",
-"233 182 CURVE SMOOTH",
-"258 182 OFFCURVE",
-"263 207 OFFCURVE",
-"268 229 CURVE SMOOTH",
-"270 239 OFFCURVE",
-"262 245 OFFCURVE",
-"255 245 CURVE SMOOTH",
-"249 245 OFFCURVE",
-"243 242 OFFCURVE",
-"242 235 CURVE",
-"240 231 OFFCURVE",
-"241 225 OFFCURVE",
-"241 221 CURVE SMOOTH",
-"241 214 OFFCURVE",
-"240 208 OFFCURVE",
-"233 208 CURVE SMOOTH",
-"213 208 OFFCURVE",
-"196 229 OFFCURVE",
-"196 248 CURVE SMOOTH",
-"196 318 OFFCURVE",
-"296 328 OFFCURVE",
-"360 338 CURVE SMOOTH",
-"423 347 OFFCURVE",
-"489 432 OFFCURVE",
-"489 507 CURVE SMOOTH"
+"463 607 OFFCURVE",
+"421 646 OFFCURVE",
+"337 656 CURVE SMOOTH",
+"243 667 LINE",
+"145 649 OFFCURVE",
+"29 578 OFFCURVE",
+"29 472 CURVE SMOOTH",
+"29 418 OFFCURVE",
+"61 395 OFFCURVE",
+"122 395 CURVE SMOOTH",
+"182 395 OFFCURVE",
+"211 436 OFFCURVE",
+"218 489 CURVE SMOOTH",
+"220 507 OFFCURVE",
+"194 482 OFFCURVE",
+"192 465 CURVE SMOOTH",
+"189 428 OFFCURVE",
+"163 422 OFFCURVE",
+"122 422 CURVE SMOOTH",
+"79 422 OFFCURVE",
+"74 447 OFFCURVE",
+"74 485 CURVE SMOOTH",
+"74 578 OFFCURVE",
+"186 623 OFFCURVE",
+"274 638 CURVE",
+"354 640 OFFCURVE",
+"392 596 OFFCURVE",
+"392 512 CURVE SMOOTH",
+"392 451 OFFCURVE",
+"378 419 OFFCURVE",
+"326 411 CURVE SMOOTH",
+"249 399 OFFCURVE",
+"143 332 OFFCURVE",
+"143 248 CURVE SMOOTH",
+"143 216 OFFCURVE",
+"174 182 OFFCURVE",
+"207 182 CURVE SMOOTH",
+"232 182 OFFCURVE",
+"237 207 OFFCURVE",
+"242 229 CURVE SMOOTH",
+"244 239 OFFCURVE",
+"236 245 OFFCURVE",
+"229 245 CURVE SMOOTH",
+"223 245 OFFCURVE",
+"217 242 OFFCURVE",
+"216 235 CURVE",
+"214 231 OFFCURVE",
+"215 225 OFFCURVE",
+"215 221 CURVE SMOOTH",
+"215 214 OFFCURVE",
+"214 208 OFFCURVE",
+"207 208 CURVE SMOOTH",
+"187 208 OFFCURVE",
+"170 229 OFFCURVE",
+"170 248 CURVE SMOOTH",
+"170 318 OFFCURVE",
+"270 328 OFFCURVE",
+"334 338 CURVE SMOOTH",
+"397 347 OFFCURVE",
+"463 432 OFFCURVE",
+"463 507 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"201 62 OFFCURVE",
-"187 70 OFFCURVE",
-"177 70 CURVE SMOOTH",
-"170 70 OFFCURVE",
-"165 67 OFFCURVE",
-"163 60 CURVE SMOOTH",
-"159 50 OFFCURVE",
-"143 38 OFFCURVE",
-"143 24 CURVE SMOOTH",
-"143 21 OFFCURVE",
-"144 19 OFFCURVE",
-"145 16 CURVE SMOOTH",
-"150 4 OFFCURVE",
-"160 0 OFFCURVE",
-"171 0 CURVE SMOOTH",
-"178 0 OFFCURVE",
-"185 1 OFFCURVE",
-"191 4 CURVE SMOOTH",
-"204 10 OFFCURVE",
-"212 24 OFFCURVE",
-"212 37 CURVE SMOOTH",
-"212 43 OFFCURVE",
-"210 48 OFFCURVE",
-"207 53 CURVE SMOOTH"
+"175 62 OFFCURVE",
+"161 70 OFFCURVE",
+"151 70 CURVE SMOOTH",
+"144 70 OFFCURVE",
+"139 67 OFFCURVE",
+"137 60 CURVE SMOOTH",
+"133 50 OFFCURVE",
+"117 38 OFFCURVE",
+"117 24 CURVE SMOOTH",
+"117 21 OFFCURVE",
+"118 19 OFFCURVE",
+"119 16 CURVE SMOOTH",
+"124 4 OFFCURVE",
+"134 0 OFFCURVE",
+"145 0 CURVE SMOOTH",
+"152 0 OFFCURVE",
+"159 1 OFFCURVE",
+"165 4 CURVE SMOOTH",
+"178 10 OFFCURVE",
+"186 24 OFFCURVE",
+"186 37 CURVE SMOOTH",
+"186 43 OFFCURVE",
+"184 48 OFFCURVE",
+"181 53 CURVE SMOOTH"
 );
 }
 );
-width = 460;
+width = 434;
 }
 );
 note = question;
@@ -40862,7 +40866,8 @@ asterisk = -110;
 "@MMK_R_quotes" = 50;
 };
 "@MMK_L_P" = {
-"@MMK_R_i" = -15;
+"@MMK_R_a" = -10;
+"@MMK_R_i" = -25;
 "@MMK_R_j" = 30;
 "@MMK_R_ord" = 80;
 "@MMK_R_period" = -50;
@@ -40977,9 +40982,6 @@ question = 50;
 "@MMK_L_l" = {
 "@MMK_R_h" = 40;
 "@MMK_R_quotes" = 20;
-};
-"@MMK_L_n" = {
-question = -30;
 };
 "@MMK_L_nine" = {
 "@MMK_R_period" = -30;
@@ -41185,5 +41187,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
