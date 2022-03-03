@@ -120,7 +120,7 @@ code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by ido
 name = locl;
 },
 {
-code = "sub @t_class' @e_class by @t_class_alt;\012sub dcroat' @a_class by dcroat.alt;\012sub dcroat' @e_class by dcroat.alt;\012sub dcroat' @i_class by dcroat.alt;\012sub dcroat' @o_class by dcroat.alt;\012\012sub @i_class @t_class' by @t_class_alt;\012sub @o_class @t_class' by @t_class_alt;\012sub @e_class @t_class' by @t_class_alt;\012\012sub i' @e_class by e.alt';\012sub i' @o_class by i.alt';\012";
+code = "sub @t_class' @e_class by @t_class_alt;\012sub dcroat' @a_class by dcroat.alt;\012sub dcroat' @e_class by dcroat.alt;\012sub dcroat' @i_class by dcroat.alt;\012sub dcroat' @o_class by dcroat.alt;\012\012sub @i_class @t_class' by @t_class_alt;\012sub @o_class @t_class' by @t_class_alt;\012sub @e_class @t_class' by @t_class_alt;\012\012sub i' @e_class by i.alt;\012sub i' @o_class by i.alt;\012";
 name = calt;
 },
 {
@@ -44562,6 +44562,9 @@ franc = 40;
 lira = -70;
 rupeeIndian = 60;
 };
+"@MMK_L_o" = {
+"@MMK_R_t" = 0;
+};
 "@MMK_L_one" = {
 "@MMK_R_quotes" = 60;
 };
@@ -44704,6 +44707,24 @@ manat = {
 "@MMK_R_three" = 40;
 "@MMK_R_zero" = 80;
 };
+ohorn = {
+"@MMK_R_t" = 50;
+};
+ohornacute = {
+"@MMK_R_t" = 50;
+};
+ohorndotbelow = {
+"@MMK_R_t" = 50;
+};
+ohorngrave = {
+"@MMK_R_t" = 50;
+};
+ohornhookabove = {
+"@MMK_R_t" = 50;
+};
+ohorntilde = {
+"@MMK_R_t" = 50;
+};
 peseta = {
 "@MMK_R_nine" = 60;
 "@MMK_R_zero" = 30;
@@ -44748,35 +44769,6 @@ slash = {
 "@MMK_R_z" = -100;
 slash = -330;
 };
-yen = {
-"@MMK_R_eight" = 50;
-"@MMK_R_five" = 90;
-"@MMK_R_nine" = 60;
-"@MMK_R_seven" = 130;
-"@MMK_R_two" = 90;
-"@MMK_R_zero" = 60;
-};
-"@MMK_L_o" = {
-"@MMK_R_t" = 0;
-};
-ohorn = {
-"@MMK_R_t" = 50;
-};
-ohornacute = {
-"@MMK_R_t" = 50;
-};
-ohorndotbelow = {
-"@MMK_R_t" = 50;
-};
-ohorngrave = {
-"@MMK_R_t" = 50;
-};
-ohornhookabove = {
-"@MMK_R_t" = 50;
-};
-ohorntilde = {
-"@MMK_R_t" = 50;
-};
 uhorn = {
 "@MMK_R_t" = 40;
 };
@@ -44794,6 +44786,14 @@ uhornhookabove = {
 };
 uhorntilde = {
 "@MMK_R_t" = 40;
+};
+yen = {
+"@MMK_R_eight" = 50;
+"@MMK_R_five" = 90;
+"@MMK_R_nine" = 60;
+"@MMK_R_seven" = 130;
+"@MMK_R_two" = 90;
+"@MMK_R_zero" = 60;
 };
 };
 };
